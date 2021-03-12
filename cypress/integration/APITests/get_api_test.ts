@@ -1,4 +1,4 @@
-import { TestData } from './testData'
+import { TestData } from '../../testData'
 describe('api_test', () => {
 
     var baseUrl: string;
